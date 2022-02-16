@@ -3,8 +3,8 @@
 ## Final exercise of SASS course
 
 * Reproduce as accurately as possible a layout with animations
-      - Use SASS
-      - Don't use JS
+  - Use SASS
+  - Don't use JS
 * Solo work
 
 ### Learning Objectives
